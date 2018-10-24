@@ -1,0 +1,18 @@
+Cambio de vida
+
+Fue parte de un game jam en el CCD,
+(centro de cultura digital),
+el tema era la discapacidad.
+
+Hicimos un "whatsap" donde un joven
+sufría un accidente y se lo platicaba
+a su amigo, menciona como ha quedado
+discapacitado.
+Tú tienes la opción de ir respondiendo
+a lo largo del chat, como un cuestionario, 
+al final te muestra que tan 
+tolerante eres o no.
+
+El proyecto fue terminado con diálogo
+y sonido, pero el integrante encargado
+no lo subió al repositorio.

@@ -1,0 +1,19 @@
+Juan Salvador Gaviota
+
+Este es un juego scroll al estilo 
+"flappy bird", el objetivo del juego
+es recrear el libro de "Juan Salvador
+Gaviota", también el ir pasando el texto
+del libro, para que en lo que uno juega,
+pueda interesarse en el libro, mientras más
+se mantenga uno jugando, más texto del 
+libro se verá.
+
+El juego fue desarrollado entre tres
+personas para conseguir boletos para
+el unity day (:D y se logró). Un
+programador, un diseñador y un músico.
+Se desarrolló aproximadamente en una semana.
+
+Quedo en proceso el ingreso de más texto
+y la tabla de score.

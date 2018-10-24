@@ -1,0 +1,16 @@
+Screen Patrón
+
+Nunca había probado el 3D en unity,
+así que decidí experimentar junto con
+la idea de un reconocimiento de patrón,
+al estilo de "mario basketball" del DS.
+
+En el panel "magic grid", se debe 
+digitar "gbig" para que reconosca un
+triángulo equilátero, luego la esfera
+realiza un ataque de fuego elevándose y 
+lanzándose en diagonal.
+
+La idea es ingresar más combinaciones y
+en un futuro próximo el reconocimiento
+de imagen.
